@@ -10,6 +10,14 @@ Things I'm trying out currently :
    Researching on "Identity aware Captioning for Videos" specifically focussed on Movies and TV Shows.
 - Looking to contribute to the Open Source ecosystem.
 
+Update :
+
+- Actively contributing to the 🤗 Datasets library. Contributed the following datasets:
+   - Added the [Metashift dataset](https://huggingface.co/datasets/metashift).
+   - Added the [RVL-CDIP dataset](https://huggingface.co/datasets/rvl_cdip).
+   - Added the [Biwi Kinect Head Pose dataset](https://huggingface.co/datasets/biwi_kinect_head_pose). <br>
+   ... working on adding more ...
+
 
 <h3>Latest posts on my Blog</h3>
 <ul>
