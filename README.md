@@ -21,7 +21,7 @@ Update :
 
 <h3>Latest posts on my Blog</h3>
 <ul>
-  <li><a href="https://dnaveenr.github.io/blog/2021/11/04/transformers.html"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" /> Transformers Paper - Summary</b></a><br/><i>Attention is all you need.</i></li>
+  <li><a href="https://dnaveenr.github.io/blog/2021/11/04/transformers.html"><b><img src="https://emojigraph.org/media/google/gear_2699-fe0f.png" width="20" alt="new" /> Transformers Paper - Summary</b></a><br/><i>Attention is all you need.</i></li>
   <li><a href="https://dnaveenr.github.io/blog/2021/09/20/pieces-that-made-ml.html"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Little Pieces that made the Whole</b></a><br/><i>Explaining Regularization, Weight Init, Optimizers, Activation and Loss Functions.</i></li>
  
 </ul>
